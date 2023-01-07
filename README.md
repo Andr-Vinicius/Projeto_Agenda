@@ -4,7 +4,18 @@
 
 <p>Os principais objetivos desse projeto foi utilizar/fixar os conceitos de JavaScript, Express e a conexão com o MongoDB.<br>
 Ainda pretendo adicionar algumas validações e mudar completamente a estilização.
-</p>
+</p><br>
+
+
+<p align="center">Tela da Agenda de Contatos</p>
+<img src="/ImagensExibicao/Agenda - Opera.jpg"></img><br>
+
+<p align="center">Tela de Cadastro de Contatos</p>
+<img src="/ImagensExibicao/Cadastro de contatos.jpg"></img>
+
+<p align="center">Tela de Cadastro/Login de Usuário</p>
+<img src="/ImagensExibicao/Pagina de login.jpg"></img>
+
 
 <h4>Etapas para poder executar o projeto na própria máquina:</H4>
 <ul>
