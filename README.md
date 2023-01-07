@@ -8,7 +8,7 @@ Ainda pretendo adicionar algumas validações e mudar completamente a estilizaç
 
 <h4>Etapas para poder executar o projeto na própria máquina:</H4>
 <ul>
-  <li>Criar um próprio servidor no MongoDB;</li>
+  <li>Criar um próprio servidor no MongoDB e iniciar ele;</li>
   <li>Baixar e extrair o repositório;</li>
   <li>Abrir o repositório no VSCode;</li>
   <li>Alterar o arquivo .env: CONNECTIONSTRING=(LINK DO SERVIDOR CRIADO NO MONGODB, NECESSÁRIO TROCAR ALGUMAS VARIÁVEIS);</li>
