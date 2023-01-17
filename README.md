@@ -2,8 +2,7 @@
 
 <p>Nesse projeto foi criado uma agenda, que possui a funcionalidade de cadastrar contatos, podendo também visualiza-los, editar e excluir. Para fazer isso precisa estar logado, e com isso as funções de cadastro/login simples também foram implementadas.</p>
 
-<p>Os principais objetivos desse projeto foi utilizar/fixar os conceitos de JavaScript, Express e a conexão com o MongoDB.<br>
-Ainda pretendo adicionar algumas validações e mudar completamente a estilização.
+<p>Os principais objetivos desse projeto foi utilizar/fixar os conceitos de JavaScript, Express e a conexão com o MongoDB. Ainda pretendo adicionar algumas validações e mudar completamente a estilização.
 </p><br>
 
 
